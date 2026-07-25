@@ -1,0 +1,111 @@
+{
+  "members": {
+    "1444785390362820853": {
+      "invites": 8,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": false
+    },
+    "1402199337240625193": {
+      "invites": 3,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": true
+    },
+    "1447650109356773459": {
+      "invites": 0,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": true
+    },
+    "1521487406791000289": {
+      "invites": 0,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": false
+    },
+    "1479211862628372621": {
+      "invites": 0,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": true
+    },
+    "1122286130868518952": {
+      "invites": 0,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": true
+    },
+    "1302695982156218378": {
+      "invites": 0,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": true
+    },
+    "1068691581110071318": {
+      "invites": 0,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": true
+    },
+    "1524084167816642660": {
+      "invites": 0,
+      "boosts": 0,
+      "hasTag": false,
+      "joinedBefore": false
+    }
+  },
+  "invitesCache": {
+    "1528871548092551378": {
+      "2H3WtarZkX": {
+        "uses": 1,
+        "inviterId": "1402199337240625193"
+      },
+      "5DsfwFREV": {
+        "uses": 0,
+        "inviterId": "1444785390362820853"
+      },
+      "EfkkzwTXj": {
+        "uses": 0,
+        "inviterId": "1444785390362820853"
+      },
+      "JkCDkESDg": {
+        "uses": 0,
+        "inviterId": "1402199337240625193"
+      },
+      "NNShfVUCtk": {
+        "uses": 2,
+        "inviterId": "1444785390362820853"
+      },
+      "P54yP2ZAK": {
+        "uses": 1,
+        "inviterId": "1402199337240625193"
+      },
+      "Rm5483QgZ": {
+        "uses": 0,
+        "inviterId": "1447650109356773459"
+      },
+      "eDu4H27UT": {
+        "uses": 0,
+        "inviterId": "1444785390362820853"
+      },
+      "qjFsshrk7": {
+        "uses": 0,
+        "inviterId": "1402199337240625193"
+      },
+      "vgE6b6pCK": {
+        "uses": 1,
+        "inviterId": "1402199337240625193"
+      },
+      "vvFEpcDNN": {
+        "uses": 14,
+        "inviterId": "1444785390362820853"
+      },
+      "VANITY": {
+        "uses": 0,
+        "inviterId": null
+      }
+    }
+  },
+  "tickets": {}
+}
