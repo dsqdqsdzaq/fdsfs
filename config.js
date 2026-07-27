@@ -33,12 +33,12 @@ module.exports = {
 
   // ==== A CONFIGURER TOI-MEME (mets tes propres IDs) ====
   // Catégorie Discord où les tickets seront créés (clic droit sur la catégorie -> Copier l'ID)
-  TICKET_CATEGORY: 'METTRE_ID_CATEGORIE_TICKETS',
+  TICKET_CATEGORY: '1531331106492780739',
 
   // Rôle(s) du staff qui peuvent voir/gérer tous les tickets
-  STAFF_ROLE_IDS: ['METTRE_ID_ROLE_STAFF'],
+  STAFF_ROLE_IDS: ['1528877755163217931'],
 
   // Rôle(s) autorisés à utiliser les commandes de modération (ban, mute, clear...)
   // Laisse vide [] pour se baser uniquement sur les permissions Discord (Bannir, Expulser, Gérer les messages...)
-  MOD_ROLE_IDS: [],
+  MOD_ROLE_IDS: [1528877755163217931],
 };
