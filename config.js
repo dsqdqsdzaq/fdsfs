@@ -5,6 +5,8 @@ module.exports = {
     '1528877108514918441',
     '1528876984896323654',
     '1528877205109739694',
+    '1528873330260709386',
+    '1529914182521323610',
   ],
 
   // Salon où le message détaillé de bienvenue est envoyé (avec ancienneté, inviteur, etc.)
